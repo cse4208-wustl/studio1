@@ -4,11 +4,7 @@
 
 This studio focuses on how function and class templates impose requirements on the types with which they are parameterized, and how those requirements define the domains in which interface polymorphism can support the Liskov Substitution Principle. It also explores how non-template functions and classes can impose their own requirements on the types they use.
 
-## Recording Answers
-
-Record your exercise answers in `ANSWERS.md`. Include the names of everyone who worked on the studio in your first answer, and number your responses so they are easy to match to the exercises.
-
-## Working Style
+## Collaboration
 
 You may complete this studio individually or in a small group.
 
@@ -17,6 +13,8 @@ You may complete this studio individually or in a small group.
 If you need a refresher on the environment setup steps from the previous studio, see [Studio 0](https://github.com/cse4208-wustl/studio0).
 
 ## Exercises
+
+Record your answers in `ANSWERS.md` as you work. Include the names of everyone who worked on the studio in your first answer, and number your responses so they are easy to match to the exercises.
 
 1. List the names of the people who worked together on this studio.
 
