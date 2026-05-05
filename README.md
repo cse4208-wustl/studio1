@@ -20,11 +20,9 @@ Record your answers in `ANSWERS.md` as you work. Include the names of everyone w
 
 2. SSH into `shell.cec.wustl.edu` using your WUSTL Key credentials, then use `qlogin` to log into one of the Linux Lab machines and confirm that the version of `g++` there is correct, as you did in [Studio 0](https://github.com/cse4208-wustl/studio0).
 
-   Then `cd` into your course directory, create a new subdirectory for this studio, and `cd` into it.
+   Work directly in this cloned repo. The repo already includes a `Makefile` configured to build an executable program called `studio1`.
 
-   Copy the `Makefile` from your previous studio into that directory. As you work on this studio, update the `Makefile` as needed so that it builds an executable program called `studio1` from the files in that directory.
-
-   Add a header file and a source file to your directory. In them, declare and define a struct that has:
+   Add a header file and a source file in this repo. In them, declare and define a struct that has:
 
    - a single public member variable of type `int`
    - a public constructor that takes an `int` and uses a base/member initializer list to initialize that member variable
