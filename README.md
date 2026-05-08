@@ -20,7 +20,7 @@ Record your answers in `ANSWERS.md` as you work. Include the names of everyone w
 
 2. SSH into `shell.cec.wustl.edu` using your WUSTL Key credentials, then use `qlogin` to log into one of the Linux Lab machines and confirm that the version of `g++` there is correct, as you did in [Studio 0](https://github.com/cse4208-wustl/studio0).
 
-   Clone your `studio1` repo and work inside that cloned directory.
+   Clone your `studio1` repo using SSH URL and work inside that cloned directory.
 
    The repo already includes a `Makefile` configured to build an executable program called `studio1`.
 
