@@ -87,4 +87,6 @@ Record your answers in `ANSWERS.md` as you work. Include the names of everyone w
 
    Add any forward declarations of the class template or the left shift operator that are needed in the header file so that your code will compile.
 
+   Update the main function to use the newly defined operator<< to print the values of your two objects.
+
    Build and run your program and confirm that it produces the same output as before. In your answers, show the code in the header file.
