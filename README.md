@@ -37,7 +37,7 @@ Record your answers in `ANSWERS.md` as you work. Include the names of everyone w
 
    Compile and run the program. In your answers, show:
 
-   - your code
+   - your main function code
    - the output the program produced
 
 3. In your struct declaration, try adding `=delete` declarations that suppress the compiler's synthesis of the:
