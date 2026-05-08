@@ -2,7 +2,7 @@
 
 ## Function and Class Templates
 
-This studio focuses on how function and class templates impose requirements on the types with which they are parameterized, and how those requirements define the domains in which interface polymorphism can support the Liskov Substitution Principle. It also explores how non-template functions and classes can impose their own requirements on the types they use.
+This studio focuses on how function and class templates impose requirements on the types with which they are parameterized. It also explores how non-template functions and classes can impose their own requirements on the types they use.
 
 ## Collaboration
 
