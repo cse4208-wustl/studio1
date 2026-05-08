@@ -90,3 +90,7 @@ Record your answers in `ANSWERS.md` as you work. Include the names of everyone w
    Update the main function to use the newly defined `operator<<` to print the values of your two objects.
 
    Build and run your program and confirm that it produces the same output as before. In your answers, show the code in the header file.
+
+## Deliverables
+
+Commit and push all modified and added files to the repo.
